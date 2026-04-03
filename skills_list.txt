@@ -1,0 +1,137 @@
+// ── PROGRAMMING LANGUAGES ──────────────────────────────────────
+python
+java
+javascript
+typescript
+c++
+c#
+c
+ruby
+php
+swift
+kotlin
+go
+rust
+scala
+r
+matlab
+perl
+bash
+
+// ── WEB & FRONTEND ─────────────────────────────────────────────
+html
+css
+react
+angular
+vue
+nodejs
+node.js
+jquery
+bootstrap
+tailwind
+rest api
+graphql
+web development
+frontend development
+backend development
+full stack
+
+// ── DATABASES ──────────────────────────────────────────────────
+sql
+mysql
+postgresql
+mongodb
+sqlite
+oracle
+redis
+elasticsearch
+firebase
+database
+nosql
+
+// ── FRAMEWORKS & TOOLS ─────────────────────────────────────────
+spring
+spring boot
+django
+flask
+fastapi
+hibernate
+maven
+gradle
+junit
+docker
+kubernetes
+git
+github
+gitlab
+jenkins
+linux
+unix
+bash scripting
+
+// ── DATA SCIENCE & ML ──────────────────────────────────────────
+machine learning
+deep learning
+natural language processing
+computer vision
+data science
+data analysis
+data engineering
+neural networks
+reinforcement learning
+supervised learning
+unsupervised learning
+feature engineering
+model training
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+big data
+hadoop
+spark
+
+// ── CLOUD ──────────────────────────────────────────────────────
+aws
+azure
+google cloud
+cloud computing
+devops
+ci/cd
+infrastructure
+
+// ── SOFT SKILLS ────────────────────────────────────────────────
+communication
+leadership
+teamwork
+problem solving
+critical thinking
+time management
+project management
+agile
+scrum
+kanban
+collaboration
+presentation
+mentoring
+
+// ── CONCEPTS ───────────────────────────────────────────────────
+object oriented programming
+data structures
+algorithms
+design patterns
+system design
+microservices
+software development
+software engineering
+version control
+testing
+unit testing
+code review
+debugging
+optimization
