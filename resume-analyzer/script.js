@@ -8,7 +8,7 @@ function analyze(){
  method:"POST",
 
  headers:{
- "Content-Type":"application/json"
+  "Content-Type":"application/json"
  },
 
  body: JSON.stringify({
@@ -19,6 +19,7 @@ function analyze(){
  })
 
  .then(res=>res.json())
+
  .then(data=>{
 
  document.getElementById("result").innerHTML =

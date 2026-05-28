@@ -7,7 +7,7 @@ import com.example.resume_analyzer.model.ResumeResponse;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin   // IMPORTANT
+@CrossOrigin   
 
 public class ResumeController {
 

@@ -9,8 +9,15 @@ public class ResumeService {
 
     public ResumeResponse analyze(ResumeRequest request) {
 
-        String[] resumeWords = request.getResumeText().toLowerCase().split(" ");
-        String[] jobWords = request.getJobDescription().toLowerCase().split(" ");
+       String[] resumeWords = request.getResumeText()
+        .toLowerCase()
+        .replace(",", "")
+        .split("\\s+");
+
+       String[] jobWords = request.getJobDescription()
+        .toLowerCase()
+        .replace(",", "")
+        .split("\\s+");
 
         Set<String> resumeSet = new HashSet<>(Arrays.asList(resumeWords));
         Set<String> jobSet = new HashSet<>(Arrays.asList(jobWords));
